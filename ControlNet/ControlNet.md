@@ -44,3 +44,41 @@
 
 ![image](https://raw.githubusercontent.com/k5362/AI_Project_2026_01/0b2a0c3b77f67bf43fd318cc6293b47d9a67e79c/ControlNet/Tile/00003-866325871.png)
 
+
+## Lineart
+
+![image](https://raw.githubusercontent.com/k5362/AI_Project_2026_01/311a0abf941218c927abd3cc79a0feff93437590/ControlNet/Lineart/2.jpg)
+
+![image](https://raw.githubusercontent.com/k5362/AI_Project_2026_01/311a0abf941218c927abd3cc79a0feff93437590/ControlNet/Lineart/2.png)
+
+![image](https://raw.githubusercontent.com/k5362/AI_Project_2026_01/311a0abf941218c927abd3cc79a0feff93437590/ControlNet/Lineart/00002-2792993911.png)
+
+## NormalMap
+
+![image](https://raw.githubusercontent.com/k5362/AI_Project_2026_01/311a0abf941218c927abd3cc79a0feff93437590/ControlNet/NormalMap/00012-1104050488.png)
+
+![image](https://raw.githubusercontent.com/k5362/AI_Project_2026_01/311a0abf941218c927abd3cc79a0feff93437590/ControlNet/NormalMap/1.png)
+
+![image](https://raw.githubusercontent.com/k5362/AI_Project_2026_01/311a0abf941218c927abd3cc79a0feff93437590/ControlNet/NormalMap/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-04-13%20111027.png)
+
+## Scribble
+
+![image](https://raw.githubusercontent.com/k5362/AI_Project_2026_01/311a0abf941218c927abd3cc79a0feff93437590/ControlNet/Scribble/2.png)
+
+![image](https://raw.githubusercontent.com/k5362/AI_Project_2026_01/311a0abf941218c927abd3cc79a0feff93437590/ControlNet/Scribble/00008-1664358828.png)
+
+## Shuffle
+
+![image](https://raw.githubusercontent.com/k5362/AI_Project_2026_01/311a0abf941218c927abd3cc79a0feff93437590/ControlNet/Shuffle/00008-1664358828.png)
+
+![image](https://raw.githubusercontent.com/k5362/AI_Project_2026_01/311a0abf941218c927abd3cc79a0feff93437590/ControlNet/Shuffle/1.png)
+
+![image](https://raw.githubusercontent.com/k5362/AI_Project_2026_01/311a0abf941218c927abd3cc79a0feff93437590/ControlNet/Shuffle/00009-2920511460.png)
+
+## SoftEdge
+
+![image](https://raw.githubusercontent.com/k5362/AI_Project_2026_01/311a0abf941218c927abd3cc79a0feff93437590/ControlNet/SoftEdge/1.jpg)
+
+![image](https://raw.githubusercontent.com/k5362/AI_Project_2026_01/311a0abf941218c927abd3cc79a0feff93437590/ControlNet/SoftEdge/2.png)
+
+![image](https://raw.githubusercontent.com/k5362/AI_Project_2026_01/311a0abf941218c927abd3cc79a0feff93437590/ControlNet/SoftEdge/00001-717060403.png)
